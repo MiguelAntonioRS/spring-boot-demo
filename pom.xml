@@ -121,8 +121,9 @@
       <dependency>
         <groupId>cn.hutool</groupId>
         <artifactId>hutool-all</artifactId>
-        <version>${hutool.version}</version>
+        <version>5.8.25</version>
       </dependency>
+
       <!-- guava工具类 -->
       <dependency>
         <groupId>com.google.guava</groupId>
